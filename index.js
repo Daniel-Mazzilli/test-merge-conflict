@@ -1,6 +1,6 @@
-function createPerson(name, age) {
+function createPerson(fullName, age) {
     return {
-      name,
+      fullName,
       age,
       friends: [],
     };
